@@ -1,7 +1,7 @@
 # Restaurant Reviews
 
 ## Project Overview
-This repository contains a Power BI dashboard for analyzing restaurant reviews. The dashboard provides insights into customer feedback, ratings, and trends over time. The dataset includes reviews and customer information stored in a two different text document file. Data cleaning and transformation were performed using Power Query Editor, and visualizations were created using Power BI. 
+This repository contains a Power BI dashboard for analyzing restaurant reviews. The dashboard provides insights from customer feedback, ratings, and trends over time. The dataset includes reviews and customer information stored in a two different text document file. Data cleaning and transformation were performed using Power Query Editor, and visualizations were created using Power BI. 
 
 ## Features
 - **Visualizations**: Bar chart, pie chart, and line graphs representing various aspects of restaurant reviews.
@@ -28,7 +28,7 @@ This repository contains a Power BI dashboard for analyzing restaurant reviews. 
 - Open the Power BI file and navigate through the different tabs to explore the visualizations.
 - Use the filters to interact with the data and gain insights.
 
-## Screenshots
+## Screenshot
 ![Dashboard Overview](images/dashboard.png)
 
 ## Contributing
