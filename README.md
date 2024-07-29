@@ -22,7 +22,7 @@ This repository contains a Power BI dashboard for analyzing restaurant reviews. 
     ```bash
     git clone https://github.com/Revathi-Gangadaran/Restaurant_Reviews.git
     ```
-2. Open `restaurant_review_dashboard.pbix` with Power BI Desktop.
+2. Open `Customer_reviews.pbix` with Power BI Desktop.
 
 ### Usage
 - Open the Power BI file and navigate through the different tabs to explore the visualizations.
