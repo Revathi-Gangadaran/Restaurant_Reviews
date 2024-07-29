@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard for analyzing restaurant reviews. 
 ## Features
 - **Visualizations**: Bar chart, pie chart, and line graphs representing various aspects of restaurant reviews.
 - **Data Filters**: Interactive filters to drill down into specific time periods and review categories.
-- **KPIs**: Key Performance Indicators for average ratings, number of reviews, and other metrics.
+- **KPIs**: Key Performance Indicators for total customers, repeated customer's reviews, number of reviews, and evaluating positive, negative, neutral feedback.
 
 ## File Structure
 - **/data**: Contains sample data files used for the dashboard.
@@ -33,4 +33,7 @@ This repository contains a Power BI dashboard for analyzing restaurant reviews. 
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
+
+## Contact
+For any questions or inquiries, please contact [revathigangadaran@gmail.com].
 
