@@ -9,8 +9,8 @@ This repository contains a Power BI dashboard for analyzing restaurant reviews. 
 - **KPIs**: Key Performance Indicators for total customers, repeated customer's reviews, number of reviews, and evaluating positive, negative, neutral feedback.
 
 ## File Structure
-- **/data**: Contains sample data files used for the dashboard.
-- **/reports**: Contains the Power BI report file (`.pbix`).
+- **/data**: Contains two sample data files (Customer.txt and Reviews.txt) used for the dashboard.
+- **/reports**: Contains the Power BI report file (`Customer_reviews.pbix`).
 - **/images**: Contains screenshots of the dashboard.
 
 ## Getting Started
