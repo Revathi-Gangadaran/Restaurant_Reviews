@@ -1,0 +1,7 @@
+# This file is for configuring Git attributes and language recognition
+*.pbix linguist-language=PowerBI
+
+
+# Ignore specific file types for language statistics
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
