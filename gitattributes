@@ -1,0 +1,11 @@
+# Specify language types for the files
+*.py linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.sql linguist-detectable=false
+*.pbix linguist-detectable=true
+
+# Ignore specific file types for language statistics
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
