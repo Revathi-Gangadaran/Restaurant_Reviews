@@ -34,6 +34,11 @@ This repository contains a Power BI dashboard for analyzing Indohub restaurant r
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
+## Languages Used
+
+- Power BI
+
+
 ## Contact
 For any questions or inquiries, please contact [revathigangadaran@gmail.com].
 
